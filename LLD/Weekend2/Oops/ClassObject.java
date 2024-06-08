@@ -1,4 +1,4 @@
-package Oops;
+package Weekend2.Oops;
 
 public class ClassObject {
     public static void main(String[] args) {

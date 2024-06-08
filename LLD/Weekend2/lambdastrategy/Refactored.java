@@ -1,4 +1,4 @@
-package lambdastrategy;
+package Weekend2.Oops.lambdastrategy;
 
 import java.util.List;
 import java.util.function.Predicate;

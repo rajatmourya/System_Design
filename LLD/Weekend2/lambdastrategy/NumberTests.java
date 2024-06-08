@@ -1,4 +1,4 @@
-package lambdastrategy;
+package Weekend2.Oops.lambdastrategy;
 
 public class NumberTests {
     public static boolean passAll(int x) {
